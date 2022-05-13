@@ -19,5 +19,6 @@ export default function ProductList(props) {
     })
    ): (
     <h1>No Product in the cart</h1>
+    
   );
 }
